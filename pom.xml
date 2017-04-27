@@ -80,6 +80,9 @@
 					</plugin>
 				</plugins>
 			</build>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
 		</profile>
 	</profiles>
 
